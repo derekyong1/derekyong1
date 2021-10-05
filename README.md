@@ -5,8 +5,8 @@
   <li>:mortar_board: I am currently a Senior at Georgia State University.</li>
   <li>:computer: I have strong interest in Software Engineer and Web Development.</li>
   <li>:snake: My favorite programming language is Python.</li>
-  <li>:bulb: Goal: Contribute in more Open Source projects</li>
-  <li>:bicyclist: I enjoy cycling on my free time</li>
+  <li>:bulb: Goal: Contribute in more Open Source projects.</li>
+  <li>:bicyclist: I enjoy cycling on my free time.</li>
 </ul>
 
 

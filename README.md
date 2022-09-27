@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer and Web Developer</h2>
 
 <ul>
-  <li>:mortar_board: I am currently a Senior at Georgia State University.</li>
+  <li>:mortar_board: I am currently a Software Engineer at FIS</li>
   <li>:computer: I have strong interest in Software Engineer and Web Development.</li>
   <li>:snake: My favorite programming language is Python.</li>
   <li>:bulb: Goal: Contribute in more Open Source projects.</li>
